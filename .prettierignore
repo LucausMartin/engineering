@@ -24,3 +24,6 @@ vite.config.ts
 
 # 忽略测试文件
 *.test.ts
+
+# 忽略 CSS 文件
+*.css
